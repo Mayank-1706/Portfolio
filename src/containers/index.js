@@ -1,0 +1,9 @@
+export {default as Achiev} from './Achiev/Achiev';
+export {default as Contact} from './Contact/Contact';
+export {default as Education} from './Education/Education';
+export {default as Home} from './Home/Home';
+export {default as Namaste} from './Namaste/Namaste';
+export {default as Navbar} from './Navbar/Navbar';
+export {default as Resp} from './Resp/Resp';
+export {default as Skills} from './Skills/Skills';
+export {default as Projects} from './Project/project';

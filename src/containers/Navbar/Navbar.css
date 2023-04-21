@@ -1,0 +1,29 @@
+.topbar_back{
+    
+    background-image: linear-gradient(to right,#09203F,#ffffff);
+    width: 100%;
+    height: 85.275px;
+    filter: blur(40px);
+    -webkit-filter: blur(40px);
+    position: fixed;
+}
+
+.topbar{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0 0 40px 2px rgba(255, 255, 255, 0.511);
+    backdrop-filter: blur(20px);
+}
+
+.topbar span{
+    padding: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}

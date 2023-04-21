@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:wght@300&display=swap');
+* {
+    scroll-behavior: smooth;
+}
+
+.App{
+    background-color: black;
+    color: white;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+}
+
+h1{
+    margin: 0;
+}
